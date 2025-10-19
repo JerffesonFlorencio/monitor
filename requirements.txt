@@ -1,0 +1,16 @@
+numpy
+opencv-python
+openpyxl
+pandas
+pillow
+PyAutoGUI
+loguru
+keyboard
+flet==0.27.2
+flet-desktop
+tk
+python-docx
+envelopes
+flask
+requests
+python-dotenv
